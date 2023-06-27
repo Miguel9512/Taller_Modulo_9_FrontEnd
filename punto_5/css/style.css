@@ -1,0 +1,35 @@
+p {
+    line-height: 33px;
+}
+
+.verde {
+    text-decoration: underline;
+    color: #008000;
+}
+
+.rojo {
+    font-weight: bolder;
+    color: #ff0000;
+}
+
+.subrayado {
+    text-decoration: underline overline;
+}
+
+.grande {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.azul {
+    color: #0000ff;
+    font-size: 19px;
+    font-weight: bolder;
+}
+
+.rojo2 {
+    text-decoration: underline;
+    color: #ff0000;
+    font-size: 19px;
+    font-weight: bolder;
+}

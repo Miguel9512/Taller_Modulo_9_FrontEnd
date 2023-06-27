@@ -1,0 +1,15 @@
+p {
+    line-height: 35px;
+    font-family: arial;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.rojo {
+    color: #ff0000;
+}
+
+.azul {
+    color: #0000ff;
+}

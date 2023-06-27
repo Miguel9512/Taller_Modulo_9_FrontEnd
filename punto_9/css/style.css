@@ -1,0 +1,20 @@
+.tabla {
+    background-color: #ffff00;
+    border-collapse: collapse;
+    border-bottom: dotted #ff0000;
+}
+
+.tabla th {
+    color: #ff0000;
+    font-family: arial;
+    font-style: italic;
+}
+
+.tabla th,
+td {
+    border: 1px dotted #000000;
+}
+
+#negrilla {
+    font-size: 30px;
+}
